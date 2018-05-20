@@ -1,5 +1,5 @@
 # Dashboard
-this is my first project upload on github
+this is my first project uploaded on github
 Data may not be stored in the best possible way
 several bugs are there
 but it works 
